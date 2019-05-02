@@ -183,6 +183,11 @@ img{
 	padding: 1em 2em;
 
 }
+.gray{
+	background-color: #999;
+	color:#000;
+	padding:1em 2em;
+}
 .dark{
 	background-color: #1a1e23;
 	color: #f3f5f6;
@@ -207,9 +212,13 @@ img{
 	text-transform: uppercase;
 }
 .portfolio .small{
-	font-size: 1.5rem;
+	font-size: 2rem;
 	font-weight: 700;
 	padding: 0;
+}
+.portfolio .regular{
+	font-size: 2.5rem;
+
 }
 .portfolio .medium{
 	font-size: 4rem;
